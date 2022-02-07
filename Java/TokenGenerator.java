@@ -3,7 +3,7 @@ import java.util.ArrayList;
 
 public class TokenGenerator {
 	public static void main(String[] args) {
-		System.out.println(generateToken(25,true,true,true));
+		System.out.println(generateToken(8,true,true,true));
 	}
 	
 	public static String generateToken(int length, boolean uppercase, boolean lowercase, boolean number){

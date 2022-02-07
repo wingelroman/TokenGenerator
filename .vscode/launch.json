@@ -5,6 +5,13 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch TokenGenerator",
+            "request": "launch",
+            "mainClass": "TokenGenerator",
+            "projectName": "TokenGenerator_c6b249bb"
+        },
+        {
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
